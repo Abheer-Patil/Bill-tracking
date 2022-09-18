@@ -1,5 +1,5 @@
 # Bill-tracking
-I have created a educational site using  spring boot , mysql , java,  hibernate
+I have created using  spring boot , mysql , java,  hibernate
 
 There several layers - controller , service , entity , repository and exception
 
